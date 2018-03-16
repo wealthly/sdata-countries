@@ -1,0 +1,64 @@
+//  This file contains manually entered overrides to
+//  be applied after the automated service completes,
+//  each list is in alphabetical order by their code.
+
+{
+  // if the item is found it will be updated,
+  // otherwise it will be added
+  add:
+  [
+  ],
+
+  // if the item is found it will be updated,
+  // otherwise it will be ignored
+  update:
+  [
+    {
+      alpha2Code: "CD",
+      shortName: "DR Congo",
+    },
+    {
+      alpha2Code: "KP",
+      shortName: "Korea (North)",
+    },
+    {
+      alpha2Code: "KR",
+      shortName: "Korea",
+    },
+    {
+      alpha2Code: "LA",
+      shortName: "Laos",
+    },
+    {
+      alpha2Code: "MD",
+      shortName: "Moldova",
+    },
+    {
+      alpha2Code: "MK",
+      shortName: "Macedonia",
+      name: "Republic of Macedonia",
+    },
+    {
+      alpha2Code: "SY",
+      shortName: "Syria",
+    },
+    {
+      alpha2Code: "TZ",
+      shortName: "Tanzania",
+    },
+    {
+      alpha2Code: "US",
+      shortName: "United States",
+    },
+    {
+      alpha2Code: "VN",
+      shortName: "Vietnam",
+    },
+  ],
+  
+  // if the item is found it will be removed,
+  // otherwise it will be ignored
+  remove:
+  [
+  ]
+}
