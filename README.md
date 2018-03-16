@@ -23,12 +23,12 @@ If you find incorrect data within the dataset, please create a pull-request with
     "languageCodes": ["en","fr"],
     "timeZones": ["-08:00","-07:00","-06:00","-05:00","-04:00","-03:30"],
     "latLong": [60.0,-95.0],
-    "area": 9984670.0,  // km2
+    "area": 9984670.0,         // km2
     "capital": "Ottawa",
     "region": "Americas",
     "subregion": "Northern America",
     "demonym": "Canadian",
-    "population": "36155487",
+    "population": "36155487"
   }
 ]
 ```
