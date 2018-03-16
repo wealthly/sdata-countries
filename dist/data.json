@@ -15,7 +15,9 @@
     "currencyCodes": [
       "EUR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "ca"
+    ],
     "timeZones": [
       "+01:00"
     ],
@@ -46,7 +48,9 @@
     "currencyCodes": [
       "AED"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "ar"
+    ],
     "timeZones": [
       "+04"
     ],
@@ -77,7 +81,11 @@
     "currencyCodes": [
       "AFN"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "ps",
+      "uz",
+      "tk"
+    ],
     "timeZones": [
       "+04:30"
     ],
@@ -108,7 +116,9 @@
     "currencyCodes": [
       "XCD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "-04:00"
     ],
@@ -139,7 +149,9 @@
     "currencyCodes": [
       "XCD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "-04:00"
     ],
@@ -170,7 +182,9 @@
     "currencyCodes": [
       "ALL"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "sq"
+    ],
     "timeZones": [
       "+01:00"
     ],
@@ -201,7 +215,10 @@
     "currencyCodes": [
       "AMD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "hy",
+      "ru"
+    ],
     "timeZones": [
       "+04:00"
     ],
@@ -232,7 +249,9 @@
     "currencyCodes": [
       "AOA"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "pt"
+    ],
     "timeZones": [
       "+01:00"
     ],
@@ -264,7 +283,10 @@
       "AUD",
       "GBP"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en",
+      "ru"
+    ],
     "timeZones": [
       "-03:00",
       "+03:00",
@@ -302,7 +324,10 @@
     "currencyCodes": [
       "ARS"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "es",
+      "gn"
+    ],
     "timeZones": [
       "-03:00"
     ],
@@ -333,7 +358,10 @@
     "currencyCodes": [
       "USD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en",
+      "sm"
+    ],
     "timeZones": [
       "-11:00"
     ],
@@ -364,7 +392,9 @@
     "currencyCodes": [
       "EUR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "de"
+    ],
     "timeZones": [
       "+01:00"
     ],
@@ -395,7 +425,9 @@
     "currencyCodes": [
       "AUD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "+05:00",
       "+06:30",
@@ -433,7 +465,10 @@
     "currencyCodes": [
       "AWG"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "nl",
+      "pa"
+    ],
     "timeZones": [
       "-04:00"
     ],
@@ -464,7 +499,9 @@
     "currencyCodes": [
       "EUR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "sv"
+    ],
     "timeZones": [
       "+02:00"
     ],
@@ -495,7 +532,9 @@
     "currencyCodes": [
       "AZN"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "az"
+    ],
     "timeZones": [
       "+04:00"
     ],
@@ -526,7 +565,11 @@
     "currencyCodes": [
       "BAM"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "bs",
+      "hr",
+      "sr"
+    ],
     "timeZones": [
       "+01:00"
     ],
@@ -557,7 +600,9 @@
     "currencyCodes": [
       "BBD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "-04:00"
     ],
@@ -588,7 +633,9 @@
     "currencyCodes": [
       "BDT"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "bn"
+    ],
     "timeZones": [
       "+06:00"
     ],
@@ -619,7 +666,11 @@
     "currencyCodes": [
       "EUR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "nl",
+      "fr",
+      "de"
+    ],
     "timeZones": [
       "+01:00"
     ],
@@ -650,7 +701,10 @@
     "currencyCodes": [
       "XOF"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "fr",
+      "ff"
+    ],
     "timeZones": [],
     "latLong": [
       13.0,
@@ -679,7 +733,9 @@
     "currencyCodes": [
       "BGN"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "bg"
+    ],
     "timeZones": [
       "+02:00"
     ],
@@ -710,7 +766,9 @@
     "currencyCodes": [
       "BHD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "ar"
+    ],
     "timeZones": [
       "+03:00"
     ],
@@ -741,7 +799,10 @@
     "currencyCodes": [
       "BIF"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "fr",
+      "rn"
+    ],
     "timeZones": [
       "+02:00"
     ],
@@ -772,7 +833,9 @@
     "currencyCodes": [
       "XOF"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "fr"
+    ],
     "timeZones": [
       "+01:00"
     ],
@@ -803,7 +866,9 @@
     "currencyCodes": [
       "EUR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "fr"
+    ],
     "timeZones": [
       "-04:00"
     ],
@@ -834,7 +899,9 @@
     "currencyCodes": [
       "BMD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "-04:00"
     ],
@@ -866,7 +933,9 @@
       "BND",
       "SGD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "ms"
+    ],
     "timeZones": [
       "+08:00"
     ],
@@ -897,7 +966,11 @@
     "currencyCodes": [
       "BOB"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "es",
+      "ay",
+      "qu"
+    ],
     "timeZones": [
       "-04:00"
     ],
@@ -929,7 +1002,9 @@
     "currencyCodes": [
       "USD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "nl"
+    ],
     "timeZones": [
       "-04:00"
     ],
@@ -960,7 +1035,9 @@
     "currencyCodes": [
       "BRL"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "pt"
+    ],
     "timeZones": [
       "-05:00",
       "-04:00",
@@ -994,7 +1071,9 @@
     "currencyCodes": [
       "BSD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "-05:00"
     ],
@@ -1026,7 +1105,9 @@
       "BTN",
       "INR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "dz"
+    ],
     "timeZones": [
       "+06:00"
     ],
@@ -1055,7 +1136,11 @@
     "currencyCodes": [
       "NOK"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "no",
+      "nb",
+      "nn"
+    ],
     "timeZones": [
       "+01:00"
     ],
@@ -1086,7 +1171,10 @@
     "currencyCodes": [
       "BWP"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en",
+      "tn"
+    ],
     "timeZones": [
       "+02:00"
     ],
@@ -1118,7 +1206,10 @@
       "BYN",
       "BYR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "be",
+      "ru"
+    ],
     "timeZones": [
       "+03:00"
     ],
@@ -1149,7 +1240,10 @@
     "currencyCodes": [
       "BZD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en",
+      "es"
+    ],
     "timeZones": [
       "-06:00"
     ],
@@ -1180,7 +1274,10 @@
     "currencyCodes": [
       "CAD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en",
+      "fr"
+    ],
     "timeZones": [
       "-08:00",
       "-07:00",
@@ -1216,7 +1313,9 @@
     "currencyCodes": [
       "AUD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "+06:30"
     ],
@@ -1247,7 +1346,13 @@
     "currencyCodes": [
       "CDF"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "fr",
+      "ln",
+      "kg",
+      "sw",
+      "lu"
+    ],
     "timeZones": [
       "+01:00",
       "+02:00"
@@ -1279,7 +1384,10 @@
     "currencyCodes": [
       "XAF"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "fr",
+      "sg"
+    ],
     "timeZones": [
       "+01:00"
     ],
@@ -1310,7 +1418,10 @@
     "currencyCodes": [
       "XAF"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "fr",
+      "ln"
+    ],
     "timeZones": [
       "+01:00"
     ],
@@ -1341,7 +1452,11 @@
     "currencyCodes": [
       "CHF"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "de",
+      "fr",
+      "it"
+    ],
     "timeZones": [
       "+01:00"
     ],
@@ -1372,7 +1487,9 @@
     "currencyCodes": [
       "XOF"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "fr"
+    ],
     "timeZones": [],
     "latLong": [
       8.0,
@@ -1402,7 +1519,9 @@
       "NZD",
       "CKD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "-10:00"
     ],
@@ -1433,7 +1552,9 @@
     "currencyCodes": [
       "CLP"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "es"
+    ],
     "timeZones": [
       "-06:00",
       "-04:00"
@@ -1465,7 +1586,10 @@
     "currencyCodes": [
       "XAF"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en",
+      "fr"
+    ],
     "timeZones": [
       "+01:00"
     ],
@@ -1496,7 +1620,9 @@
     "currencyCodes": [
       "CNY"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "zh"
+    ],
     "timeZones": [
       "+08:00"
     ],
@@ -1527,7 +1653,9 @@
     "currencyCodes": [
       "COP"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "es"
+    ],
     "timeZones": [
       "-05:00"
     ],
@@ -1558,7 +1686,9 @@
     "currencyCodes": [
       "CRC"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "es"
+    ],
     "timeZones": [
       "-06:00"
     ],
@@ -1590,7 +1720,9 @@
       "CUC",
       "CUP"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "es"
+    ],
     "timeZones": [
       "-05:00"
     ],
@@ -1621,7 +1753,9 @@
     "currencyCodes": [
       "CVE"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "pt"
+    ],
     "timeZones": [
       "-01:00"
     ],
@@ -1652,7 +1786,11 @@
     "currencyCodes": [
       "ANG"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "nl",
+      "pa",
+      "en"
+    ],
     "timeZones": [
       "-04:00"
     ],
@@ -1683,7 +1821,9 @@
     "currencyCodes": [
       "AUD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "+07:00"
     ],
@@ -1714,7 +1854,11 @@
     "currencyCodes": [
       "EUR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "el",
+      "tr",
+      "hy"
+    ],
     "timeZones": [
       "+02:00"
     ],
@@ -1745,7 +1889,10 @@
     "currencyCodes": [
       "CZK"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "cs",
+      "sk"
+    ],
     "timeZones": [
       "+01:00"
     ],
@@ -1776,7 +1923,9 @@
     "currencyCodes": [
       "EUR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "de"
+    ],
     "timeZones": [
       "+01:00"
     ],
@@ -1807,7 +1956,10 @@
     "currencyCodes": [
       "DJF"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "fr",
+      "ar"
+    ],
     "timeZones": [
       "+03:00"
     ],
@@ -1838,7 +1990,9 @@
     "currencyCodes": [
       "DKK"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "da"
+    ],
     "timeZones": [
       "-04:00",
       "-03:00",
@@ -1872,7 +2026,9 @@
     "currencyCodes": [
       "XCD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "-04:00"
     ],
@@ -1905,7 +2061,9 @@
     "currencyCodes": [
       "DOP"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "es"
+    ],
     "timeZones": [
       "-04:00"
     ],
@@ -1936,7 +2094,9 @@
     "currencyCodes": [
       "DZD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "ar"
+    ],
     "timeZones": [
       "+01:00"
     ],
@@ -1967,7 +2127,9 @@
     "currencyCodes": [
       "USD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "es"
+    ],
     "timeZones": [
       "-06:00",
       "-05:00"
@@ -1999,7 +2161,9 @@
     "currencyCodes": [
       "EUR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "et"
+    ],
     "timeZones": [
       "+02:00"
     ],
@@ -2030,7 +2194,9 @@
     "currencyCodes": [
       "EGP"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "ar"
+    ],
     "timeZones": [
       "+02:00"
     ],
@@ -2062,7 +2228,9 @@
       "MAD",
       "DZD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "es"
+    ],
     "timeZones": [
       "+00:00"
     ],
@@ -2093,7 +2261,11 @@
     "currencyCodes": [
       "ERN"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "ti",
+      "ar",
+      "en"
+    ],
     "timeZones": [
       "+03:00"
     ],
@@ -2124,7 +2296,9 @@
     "currencyCodes": [
       "EUR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "es"
+    ],
     "timeZones": [
       "+01:00"
     ],
@@ -2155,7 +2329,9 @@
     "currencyCodes": [
       "ETB"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "am"
+    ],
     "timeZones": [
       "+03:00"
     ],
@@ -2186,7 +2362,10 @@
     "currencyCodes": [
       "EUR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "fi",
+      "sv"
+    ],
     "timeZones": [
       "+02:00"
     ],
@@ -2217,7 +2396,12 @@
     "currencyCodes": [
       "FJD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en",
+      "fj",
+      "hi",
+      "ur"
+    ],
     "timeZones": [
       "+12:00"
     ],
@@ -2248,7 +2432,9 @@
     "currencyCodes": [
       "FKP"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "-04:00"
     ],
@@ -2279,7 +2465,9 @@
     "currencyCodes": [
       "USD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "+10:00",
       "+11"
@@ -2312,7 +2500,9 @@
       "DKK",
       "(NONE)"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "fo"
+    ],
     "timeZones": [
       "+00:00"
     ],
@@ -2343,7 +2533,9 @@
     "currencyCodes": [
       "EUR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "fr"
+    ],
     "timeZones": [
       "-10:00",
       "-09:30",
@@ -2385,7 +2577,9 @@
     "currencyCodes": [
       "XAF"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "fr"
+    ],
     "timeZones": [
       "+01:00"
     ],
@@ -2416,7 +2610,9 @@
     "currencyCodes": [
       "GBP"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "-08:00",
       "-05:00",
@@ -2454,7 +2650,9 @@
     "currencyCodes": [
       "XCD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "-04:00"
     ],
@@ -2485,7 +2683,9 @@
     "currencyCodes": [
       "GEL"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "ka"
+    ],
     "timeZones": [
       "-05:00"
     ],
@@ -2516,7 +2716,9 @@
     "currencyCodes": [
       "EUR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "fr"
+    ],
     "timeZones": [
       "-03:00"
     ],
@@ -2548,7 +2750,10 @@
       "GBP",
       "(NONE)"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en",
+      "fr"
+    ],
     "timeZones": [
       "+00:00"
     ],
@@ -2579,7 +2784,9 @@
     "currencyCodes": [
       "GHS"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [],
     "latLong": [
       8.0,
@@ -2608,7 +2815,9 @@
     "currencyCodes": [
       "GIP"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "+01:00"
     ],
@@ -2639,7 +2848,9 @@
     "currencyCodes": [
       "DKK"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "kl"
+    ],
     "timeZones": [
       "-04:00",
       "-03:00",
@@ -2673,7 +2884,9 @@
     "currencyCodes": [
       "GMD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "+00:00"
     ],
@@ -2704,7 +2917,10 @@
     "currencyCodes": [
       "GNF"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "fr",
+      "ff"
+    ],
     "timeZones": [],
     "latLong": [
       11.0,
@@ -2733,7 +2949,9 @@
     "currencyCodes": [
       "EUR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "fr"
+    ],
     "timeZones": [
       "-04:00"
     ],
@@ -2764,7 +2982,10 @@
     "currencyCodes": [
       "XAF"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "es",
+      "fr"
+    ],
     "timeZones": [
       "+01:00"
     ],
@@ -2795,7 +3016,9 @@
     "currencyCodes": [
       "EUR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "el"
+    ],
     "timeZones": [
       "+02:00"
     ],
@@ -2827,7 +3050,9 @@
       "GBP",
       "(NONE)"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "-02:00"
     ],
@@ -2858,7 +3083,9 @@
     "currencyCodes": [
       "GTQ"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "es"
+    ],
     "timeZones": [
       "-06:00"
     ],
@@ -2889,7 +3116,11 @@
     "currencyCodes": [
       "USD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en",
+      "ch",
+      "es"
+    ],
     "timeZones": [
       "+10:00"
     ],
@@ -2920,7 +3151,9 @@
     "currencyCodes": [
       "XOF"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "pt"
+    ],
     "timeZones": [],
     "latLong": [
       12.0,
@@ -2949,7 +3182,9 @@
     "currencyCodes": [
       "GYD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "-04:00"
     ],
@@ -2980,7 +3215,10 @@
     "currencyCodes": [
       "HKD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en",
+      "zh"
+    ],
     "timeZones": [
       "+08:00"
     ],
@@ -3010,7 +3248,9 @@
     "currencyCodes": [
       "AUD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "+05:00"
     ],
@@ -3041,7 +3281,9 @@
     "currencyCodes": [
       "HNL"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "es"
+    ],
     "timeZones": [
       "-06:00"
     ],
@@ -3072,7 +3314,9 @@
     "currencyCodes": [
       "HRK"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "hr"
+    ],
     "timeZones": [
       "+01:00"
     ],
@@ -3103,7 +3347,10 @@
     "currencyCodes": [
       "HTG"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "fr",
+      "ht"
+    ],
     "timeZones": [
       "-05:00"
     ],
@@ -3134,7 +3381,9 @@
     "currencyCodes": [
       "HUF"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "hu"
+    ],
     "timeZones": [
       "+01:00"
     ],
@@ -3165,7 +3414,9 @@
     "currencyCodes": [
       "IDR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "id"
+    ],
     "timeZones": [
       "+07:00",
       "+08:00",
@@ -3198,7 +3449,10 @@
     "currencyCodes": [
       "EUR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "ga",
+      "en"
+    ],
     "timeZones": [],
     "latLong": [
       53.0,
@@ -3227,7 +3481,10 @@
     "currencyCodes": [
       "ILS"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "he",
+      "ar"
+    ],
     "timeZones": [
       "+02:00"
     ],
@@ -3259,7 +3516,10 @@
       "GBP",
       "IMP[G]"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en",
+      "gv"
+    ],
     "timeZones": [
       "+00:00"
     ],
@@ -3290,7 +3550,10 @@
     "currencyCodes": [
       "INR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "hi",
+      "en"
+    ],
     "timeZones": [
       "+05:30"
     ],
@@ -3321,7 +3584,9 @@
     "currencyCodes": [
       "USD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "+06:00"
     ],
@@ -3352,7 +3617,10 @@
     "currencyCodes": [
       "IQD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "ar",
+      "ku"
+    ],
     "timeZones": [
       "+03:00"
     ],
@@ -3383,7 +3651,9 @@
     "currencyCodes": [
       "IRR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "fa"
+    ],
     "timeZones": [
       "+03:30"
     ],
@@ -3414,7 +3684,9 @@
     "currencyCodes": [
       "ISK"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "is"
+    ],
     "timeZones": [],
     "latLong": [
       65.0,
@@ -3443,7 +3715,9 @@
     "currencyCodes": [
       "EUR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "it"
+    ],
     "timeZones": [
       "+01:00"
     ],
@@ -3475,7 +3749,10 @@
       "GBP",
       "JEP[G]"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en",
+      "fr"
+    ],
     "timeZones": [
       "+01:00"
     ],
@@ -3506,7 +3783,9 @@
     "currencyCodes": [
       "JMD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "-05:00"
     ],
@@ -3537,7 +3816,9 @@
     "currencyCodes": [
       "JOD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "ar"
+    ],
     "timeZones": [
       "+03:00"
     ],
@@ -3568,7 +3849,9 @@
     "currencyCodes": [
       "JPY"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "ja"
+    ],
     "timeZones": [
       "+09:00"
     ],
@@ -3599,7 +3882,10 @@
     "currencyCodes": [
       "KES"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en",
+      "sw"
+    ],
     "timeZones": [
       "+03:00"
     ],
@@ -3630,7 +3916,10 @@
     "currencyCodes": [
       "KGS"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "ky",
+      "ru"
+    ],
     "timeZones": [
       "+06:00"
     ],
@@ -3662,7 +3951,9 @@
       "KHR",
       "USD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "km"
+    ],
     "timeZones": [
       "+07:00"
     ],
@@ -3694,7 +3985,9 @@
       "AUD",
       "(NONE)"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "+12:00",
       "+13:00",
@@ -3727,7 +4020,10 @@
     "currencyCodes": [
       "KMF"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "ar",
+      "fr"
+    ],
     "timeZones": [
       "+03:00"
     ],
@@ -3758,7 +4054,9 @@
     "currencyCodes": [
       "XCD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "-04:00"
     ],
@@ -3789,7 +4087,9 @@
     "currencyCodes": [
       "KPW"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "ko"
+    ],
     "timeZones": [
       "+09:00"
     ],
@@ -3820,7 +4120,9 @@
     "currencyCodes": [
       "KRW"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "ko"
+    ],
     "timeZones": [
       "+09:00"
     ],
@@ -3851,7 +4153,9 @@
     "currencyCodes": [
       "KWD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "ar"
+    ],
     "timeZones": [
       "+03:00"
     ],
@@ -3882,7 +4186,9 @@
     "currencyCodes": [
       "KYD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "-05:00"
     ],
@@ -3915,7 +4221,10 @@
     "currencyCodes": [
       "KZT"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "kk",
+      "ru"
+    ],
     "timeZones": [
       "+05:00",
       "+06:00"
@@ -3947,7 +4256,9 @@
     "currencyCodes": [
       "LAK"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "lo"
+    ],
     "timeZones": [
       "+07:00"
     ],
@@ -3978,7 +4289,10 @@
     "currencyCodes": [
       "LBP"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "ar",
+      "fr"
+    ],
     "timeZones": [
       "+02:00"
     ],
@@ -4009,7 +4323,9 @@
     "currencyCodes": [
       "XCD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "-04:00"
     ],
@@ -4040,7 +4356,9 @@
     "currencyCodes": [
       "CHF"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "de"
+    ],
     "timeZones": [
       "+01:00"
     ],
@@ -4071,7 +4389,10 @@
     "currencyCodes": [
       "LKR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "si",
+      "ta"
+    ],
     "timeZones": [
       "+05:30"
     ],
@@ -4102,7 +4423,9 @@
     "currencyCodes": [
       "LRD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [],
     "latLong": [
       6.5,
@@ -4132,7 +4455,10 @@
       "LSL",
       "ZAR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en",
+      "st"
+    ],
     "timeZones": [
       "+02:00"
     ],
@@ -4163,7 +4489,9 @@
     "currencyCodes": [
       "EUR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "lt"
+    ],
     "timeZones": [
       "+02:00"
     ],
@@ -4194,7 +4522,11 @@
     "currencyCodes": [
       "EUR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "fr",
+      "de",
+      "lb"
+    ],
     "timeZones": [
       "+01:00"
     ],
@@ -4225,7 +4557,9 @@
     "currencyCodes": [
       "EUR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "lv"
+    ],
     "timeZones": [
       "+02:00"
     ],
@@ -4256,7 +4590,9 @@
     "currencyCodes": [
       "LYD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "ar"
+    ],
     "timeZones": [
       "+01:00"
     ],
@@ -4287,7 +4623,9 @@
     "currencyCodes": [
       "MAD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "ar"
+    ],
     "timeZones": [],
     "latLong": [
       32.0,
@@ -4316,7 +4654,9 @@
     "currencyCodes": [
       "EUR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "fr"
+    ],
     "timeZones": [
       "+01:00"
     ],
@@ -4347,7 +4687,9 @@
     "currencyCodes": [
       "MDL"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "ro"
+    ],
     "timeZones": [
       "+02:00"
     ],
@@ -4378,7 +4720,12 @@
     "currencyCodes": [
       "EUR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "sr",
+      "bs",
+      "sq",
+      "hr"
+    ],
     "timeZones": [
       "+01:00"
     ],
@@ -4411,7 +4758,11 @@
     "currencyCodes": [
       "EUR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en",
+      "fr",
+      "nl"
+    ],
     "timeZones": [
       "-04:00"
     ],
@@ -4442,7 +4793,10 @@
     "currencyCodes": [
       "MGA"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "fr",
+      "mg"
+    ],
     "timeZones": [
       "+03:00"
     ],
@@ -4473,7 +4827,10 @@
     "currencyCodes": [
       "USD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en",
+      "mh"
+    ],
     "timeZones": [
       "+12:00"
     ],
@@ -4504,7 +4861,9 @@
     "currencyCodes": [
       "MKD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "mk"
+    ],
     "timeZones": [
       "+01:00"
     ],
@@ -4535,7 +4894,9 @@
     "currencyCodes": [
       "XOF"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "fr"
+    ],
     "timeZones": [],
     "latLong": [
       17.0,
@@ -4564,7 +4925,9 @@
     "currencyCodes": [
       "MMK"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "my"
+    ],
     "timeZones": [
       "+06:30"
     ],
@@ -4595,7 +4958,9 @@
     "currencyCodes": [
       "MNT"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "mn"
+    ],
     "timeZones": [
       "+07:00",
       "+08:00"
@@ -4627,7 +4992,10 @@
     "currencyCodes": [
       "MOP"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "zh",
+      "pt"
+    ],
     "timeZones": [
       "+08:00"
     ],
@@ -4658,7 +5026,10 @@
     "currencyCodes": [
       "USD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en",
+      "ch"
+    ],
     "timeZones": [
       "+10:00"
     ],
@@ -4689,7 +5060,9 @@
     "currencyCodes": [
       "EUR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "fr"
+    ],
     "timeZones": [
       "-04:00"
     ],
@@ -4720,7 +5093,9 @@
     "currencyCodes": [
       "MRO"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "ar"
+    ],
     "timeZones": [],
     "latLong": [
       20.0,
@@ -4749,7 +5124,9 @@
     "currencyCodes": [
       "XCD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "-04:00"
     ],
@@ -4780,7 +5157,10 @@
     "currencyCodes": [
       "EUR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "mt",
+      "en"
+    ],
     "timeZones": [
       "+01:00"
     ],
@@ -4811,7 +5191,9 @@
     "currencyCodes": [
       "MUR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "+04:00"
     ],
@@ -4842,7 +5224,9 @@
     "currencyCodes": [
       "MVR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "dv"
+    ],
     "timeZones": [
       "+05:00"
     ],
@@ -4873,7 +5257,10 @@
     "currencyCodes": [
       "MWK"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en",
+      "ny"
+    ],
     "timeZones": [
       "+02:00"
     ],
@@ -4904,7 +5291,9 @@
     "currencyCodes": [
       "MXN"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "es"
+    ],
     "timeZones": [
       "-08:00",
       "-07:00",
@@ -4968,7 +5357,9 @@
     "currencyCodes": [
       "MZN"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "pt"
+    ],
     "timeZones": [
       "+02:00"
     ],
@@ -5000,7 +5391,10 @@
       "NAD",
       "ZAR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en",
+      "af"
+    ],
     "timeZones": [
       "+01:00"
     ],
@@ -5031,7 +5425,9 @@
     "currencyCodes": [
       "XPF"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "fr"
+    ],
     "timeZones": [
       "+11:00"
     ],
@@ -5062,7 +5458,9 @@
     "currencyCodes": [
       "XOF"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "fr"
+    ],
     "timeZones": [
       "+01:00"
     ],
@@ -5093,7 +5491,9 @@
     "currencyCodes": [
       "AUD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "+11:30"
     ],
@@ -5124,7 +5524,9 @@
     "currencyCodes": [
       "NGN"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "+01:00"
     ],
@@ -5155,7 +5557,9 @@
     "currencyCodes": [
       "NIO"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "es"
+    ],
     "timeZones": [
       "-06:00"
     ],
@@ -5186,7 +5590,9 @@
     "currencyCodes": [
       "EUR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "nl"
+    ],
     "timeZones": [
       "-04:00",
       "+01:00"
@@ -5218,7 +5624,11 @@
     "currencyCodes": [
       "NOK"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "no",
+      "nb",
+      "nn"
+    ],
     "timeZones": [
       "+01:00"
     ],
@@ -5249,7 +5659,9 @@
     "currencyCodes": [
       "NPR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "ne"
+    ],
     "timeZones": [
       "+05:45"
     ],
@@ -5281,7 +5693,10 @@
       "AUD",
       "(NONE)"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en",
+      "na"
+    ],
     "timeZones": [
       "+12:00"
     ],
@@ -5313,7 +5728,9 @@
       "NZD",
       "(NONE)"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "-11:00"
     ],
@@ -5344,7 +5761,10 @@
     "currencyCodes": [
       "NZD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en",
+      "mi"
+    ],
     "timeZones": [
       "-11:00",
       "-10:00",
@@ -5379,7 +5799,9 @@
     "currencyCodes": [
       "OMR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "ar"
+    ],
     "timeZones": [
       "+04:00"
     ],
@@ -5411,7 +5833,9 @@
       "PAB",
       "USD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "es"
+    ],
     "timeZones": [
       "-05:00"
     ],
@@ -5442,7 +5866,9 @@
     "currencyCodes": [
       "PEN"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "es"
+    ],
     "timeZones": [
       "-05:00"
     ],
@@ -5473,7 +5899,9 @@
     "currencyCodes": [
       "XPF"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "fr"
+    ],
     "timeZones": [
       "-10:00",
       "-09:30",
@@ -5506,7 +5934,9 @@
     "currencyCodes": [
       "PGK"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "+10:00"
     ],
@@ -5537,7 +5967,9 @@
     "currencyCodes": [
       "PHP"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "+08:00"
     ],
@@ -5568,7 +6000,10 @@
     "currencyCodes": [
       "PKR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en",
+      "ur"
+    ],
     "timeZones": [
       "+05:00"
     ],
@@ -5599,7 +6034,9 @@
     "currencyCodes": [
       "PLN"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "pl"
+    ],
     "timeZones": [
       "+01:00"
     ],
@@ -5630,7 +6067,9 @@
     "currencyCodes": [
       "EUR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "fr"
+    ],
     "timeZones": [
       "-03:00"
     ],
@@ -5661,7 +6100,9 @@
     "currencyCodes": [
       "NZD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "-08:00"
     ],
@@ -5693,7 +6134,10 @@
     "currencyCodes": [
       "USD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "es",
+      "en"
+    ],
     "timeZones": [
       "-04:00"
     ],
@@ -5724,7 +6168,9 @@
     "currencyCodes": [
       "ILS"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "ar"
+    ],
     "timeZones": [
       "+02:00"
     ],
@@ -5755,7 +6201,9 @@
     "currencyCodes": [
       "EUR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "pt"
+    ],
     "timeZones": [
       "-01:00"
     ],
@@ -5787,7 +6235,9 @@
       "(NONE)",
       "USD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "+09:00"
     ],
@@ -5818,7 +6268,10 @@
     "currencyCodes": [
       "PYG"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "es",
+      "gn"
+    ],
     "timeZones": [
       "-04:00"
     ],
@@ -5849,7 +6302,9 @@
     "currencyCodes": [
       "QAR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "ar"
+    ],
     "timeZones": [
       "+03:00"
     ],
@@ -5880,7 +6335,9 @@
     "currencyCodes": [
       "EUR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "fr"
+    ],
     "timeZones": [
       "+04:00"
     ],
@@ -5911,7 +6368,9 @@
     "currencyCodes": [
       "RON"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "ro"
+    ],
     "timeZones": [
       "+02:00"
     ],
@@ -5942,7 +6401,9 @@
     "currencyCodes": [
       "RSD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "sr"
+    ],
     "timeZones": [
       "+01:00"
     ],
@@ -5973,7 +6434,9 @@
     "currencyCodes": [
       "RUB"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "ru"
+    ],
     "timeZones": [
       "+03:00",
       "+04:00",
@@ -6012,7 +6475,11 @@
     "currencyCodes": [
       "RWF"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "rw",
+      "en",
+      "fr"
+    ],
     "timeZones": [
       "+02:00"
     ],
@@ -6043,7 +6510,9 @@
     "currencyCodes": [
       "SAR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "ar"
+    ],
     "timeZones": [
       "+03:00"
     ],
@@ -6074,7 +6543,9 @@
     "currencyCodes": [
       "SBD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "+11:00"
     ],
@@ -6105,7 +6576,10 @@
     "currencyCodes": [
       "SCR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "fr",
+      "en"
+    ],
     "timeZones": [
       "+04:00"
     ],
@@ -6136,7 +6610,10 @@
     "currencyCodes": [
       "SDG"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "ar",
+      "en"
+    ],
     "timeZones": [
       "+03:00"
     ],
@@ -6167,7 +6644,9 @@
     "currencyCodes": [
       "SEK"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "sv"
+    ],
     "timeZones": [
       "+01:00"
     ],
@@ -6199,7 +6678,12 @@
       "BND",
       "SGD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en",
+      "ms",
+      "ta",
+      "zh"
+    ],
     "timeZones": [
       "+08:00"
     ],
@@ -6230,7 +6714,9 @@
     "currencyCodes": [
       "SHP"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "+00:00"
     ],
@@ -6261,7 +6747,9 @@
     "currencyCodes": [
       "EUR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "sl"
+    ],
     "timeZones": [
       "+01:00"
     ],
@@ -6292,7 +6780,9 @@
     "currencyCodes": [
       "NOK"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "no"
+    ],
     "timeZones": [
       "+01:00"
     ],
@@ -6323,7 +6813,9 @@
     "currencyCodes": [
       "EUR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "sk"
+    ],
     "timeZones": [
       "+01:00"
     ],
@@ -6354,7 +6846,9 @@
     "currencyCodes": [
       "SLL"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [],
     "latLong": [
       8.5,
@@ -6383,7 +6877,9 @@
     "currencyCodes": [
       "EUR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "it"
+    ],
     "timeZones": [
       "+01:00"
     ],
@@ -6414,7 +6910,9 @@
     "currencyCodes": [
       "XOF"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "fr"
+    ],
     "timeZones": [],
     "latLong": [
       14.0,
@@ -6443,7 +6941,10 @@
     "currencyCodes": [
       "SOS"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "so",
+      "ar"
+    ],
     "timeZones": [
       "+03:00"
     ],
@@ -6474,7 +6975,9 @@
     "currencyCodes": [
       "SRD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "nl"
+    ],
     "timeZones": [
       "-03:00"
     ],
@@ -6505,7 +7008,9 @@
     "currencyCodes": [
       "SSP"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "+03:00"
     ],
@@ -6536,7 +7041,9 @@
     "currencyCodes": [
       "STD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "pt"
+    ],
     "timeZones": [],
     "latLong": [
       1.0,
@@ -6565,7 +7072,9 @@
     "currencyCodes": [
       "USD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "es"
+    ],
     "timeZones": [
       "-06:00"
     ],
@@ -6596,7 +7105,10 @@
     "currencyCodes": [
       "ANG"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "nl",
+      "en"
+    ],
     "timeZones": [
       "-04:00"
     ],
@@ -6627,7 +7139,9 @@
     "currencyCodes": [
       "SYP"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "ar"
+    ],
     "timeZones": [
       "+02:00"
     ],
@@ -6658,7 +7172,10 @@
     "currencyCodes": [
       "SZL"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en",
+      "ss"
+    ],
     "timeZones": [
       "+02:00"
     ],
@@ -6689,7 +7206,9 @@
     "currencyCodes": [
       "USD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "-04:00"
     ],
@@ -6720,7 +7239,10 @@
     "currencyCodes": [
       "XAF"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "fr",
+      "ar"
+    ],
     "timeZones": [
       "+01:00"
     ],
@@ -6749,7 +7271,9 @@
     "currencyCodes": [
       "EUR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "fr"
+    ],
     "timeZones": [
       "+05:00"
     ],
@@ -6780,7 +7304,9 @@
     "currencyCodes": [
       "XOF"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "fr"
+    ],
     "timeZones": [],
     "latLong": [
       8.0,
@@ -6809,7 +7335,9 @@
     "currencyCodes": [
       "THB"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "th"
+    ],
     "timeZones": [
       "+07:00"
     ],
@@ -6840,7 +7368,10 @@
     "currencyCodes": [
       "TJS"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "tg",
+      "ru"
+    ],
     "timeZones": [
       "+05:00"
     ],
@@ -6871,7 +7402,9 @@
     "currencyCodes": [
       "NZD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "+13:00"
     ],
@@ -6902,7 +7435,9 @@
     "currencyCodes": [
       "USD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "pt"
+    ],
     "timeZones": [
       "+09:00"
     ],
@@ -6933,7 +7468,10 @@
     "currencyCodes": [
       "TMT"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "tk",
+      "ru"
+    ],
     "timeZones": [
       "+05:00"
     ],
@@ -6964,7 +7502,9 @@
     "currencyCodes": [
       "TND"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "ar"
+    ],
     "timeZones": [
       "+01:00"
     ],
@@ -6995,7 +7535,10 @@
     "currencyCodes": [
       "TOP"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en",
+      "to"
+    ],
     "timeZones": [
       "+13:00"
     ],
@@ -7026,7 +7569,9 @@
     "currencyCodes": [
       "TRY"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "tr"
+    ],
     "timeZones": [
       "+03:00"
     ],
@@ -7057,7 +7602,9 @@
     "currencyCodes": [
       "TTD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "-04:00"
     ],
@@ -7089,7 +7636,9 @@
       "AUD",
       "TVD[G]"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "+12:00"
     ],
@@ -7120,7 +7669,9 @@
     "currencyCodes": [
       "TWD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "zh"
+    ],
     "timeZones": [
       "+08:00"
     ],
@@ -7151,7 +7702,10 @@
     "currencyCodes": [
       "TZS"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "sw",
+      "en"
+    ],
     "timeZones": [
       "+03:00"
     ],
@@ -7182,7 +7736,9 @@
     "currencyCodes": [
       "UAH"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "uk"
+    ],
     "timeZones": [
       "+02:00"
     ],
@@ -7213,7 +7769,10 @@
     "currencyCodes": [
       "UGX"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en",
+      "sw"
+    ],
     "timeZones": [
       "+03:00"
     ],
@@ -7242,7 +7801,9 @@
     "currencyCodes": [
       "USD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "-11:00",
       "-10:00",
@@ -7272,7 +7833,9 @@
     "currencyCodes": [
       "USD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "-12:00",
       "-11:00",
@@ -7313,7 +7876,9 @@
     "currencyCodes": [
       "UYU"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "es"
+    ],
     "timeZones": [
       "-03:00"
     ],
@@ -7344,7 +7909,10 @@
     "currencyCodes": [
       "UZS"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "uz",
+      "ru"
+    ],
     "timeZones": [
       "+05:00"
     ],
@@ -7375,7 +7943,12 @@
     "currencyCodes": [
       "EUR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "la",
+      "it",
+      "fr",
+      "de"
+    ],
     "timeZones": [
       "+01:00"
     ],
@@ -7406,7 +7979,9 @@
     "currencyCodes": [
       "XCD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "-04:00"
     ],
@@ -7437,7 +8012,9 @@
     "currencyCodes": [
       "VEF"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "es"
+    ],
     "timeZones": [
       "-04:00"
     ],
@@ -7468,7 +8045,9 @@
     "currencyCodes": [
       "USD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "-04:00"
     ],
@@ -7499,7 +8078,9 @@
     "currencyCodes": [
       "USD"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "-04:00"
     ],
@@ -7530,7 +8111,9 @@
     "currencyCodes": [
       "VND"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "vi"
+    ],
     "timeZones": [
       "+07:00"
     ],
@@ -7561,7 +8144,11 @@
     "currencyCodes": [
       "VUV"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "bi",
+      "en",
+      "fr"
+    ],
     "timeZones": [
       "+11:00"
     ],
@@ -7592,7 +8179,9 @@
     "currencyCodes": [
       "XPF"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "fr"
+    ],
     "timeZones": [
       "+12:00"
     ],
@@ -7623,7 +8212,10 @@
     "currencyCodes": [
       "WST"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "sm",
+      "en"
+    ],
     "timeZones": [
       "+13:00"
     ],
@@ -7652,7 +8244,10 @@
     "currencyCodes": [
       "EUR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "sq",
+      "sr"
+    ],
     "timeZones": [
       "+01:00"
     ],
@@ -7683,7 +8278,9 @@
     "currencyCodes": [
       "YER"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "ar"
+    ],
     "timeZones": [
       "+03:00"
     ],
@@ -7714,7 +8311,9 @@
     "currencyCodes": [
       "EUR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "fr"
+    ],
     "timeZones": [
       "+03:00"
     ],
@@ -7745,7 +8344,18 @@
     "currencyCodes": [
       "ZAR"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "af",
+      "en",
+      "nr",
+      "st",
+      "ss",
+      "tn",
+      "ts",
+      "ve",
+      "xh",
+      "zu"
+    ],
     "timeZones": [
       "+02:00"
     ],
@@ -7776,7 +8386,9 @@
     "currencyCodes": [
       "ZMW"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en"
+    ],
     "timeZones": [
       "+02:00"
     ],
@@ -7815,7 +8427,11 @@
       "USD",
       "(NONE)"
     ],
-    "languageCodes": [],
+    "languageCodes": [
+      "en",
+      "sn",
+      "nd"
+    ],
     "timeZones": [
       "+02:00"
     ],
