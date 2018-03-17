@@ -14,12 +14,24 @@
   update:
   [
     {
+      alpha2Code: "AU",
+      officialName: "the Commonwealth of Australia",  // add 'the Commonwealth of'
+    },
+    {
       alpha2Code: "CD",
       shortName: "DR Congo",
     },
     {
+      alpha2Code: "CV",
+      officialName: "the Republic of Cabo Verde",  // add 'the'
+    },
+    {
+      alpha2Code: "KN",
+      officialName: "the Federation of Saint Kitts and Nevis",
+    },
+    {
       alpha2Code: "KP",
-      shortName: "Korea (North)",
+      shortName: "Korea, North",
     },
     {
       alpha2Code: "KR",
@@ -37,6 +49,18 @@
       alpha2Code: "MK",
       shortName: "Macedonia",
       name: "Republic of Macedonia",
+    },
+    {
+      alpha2Code: "MP",
+      officialName: "the Commonwealth of the Northern Mariana Islands",  // add 'the'
+    },
+    {
+      alpha2Code: "PR",
+      officialName: "the Commonwealth of Puerto Rico",  // add 'the'
+    },
+    {
+      alpha2Code: "RE",
+      shortName: "Réunion",  // use 'é' instead of 'e'
     },
     {
       alpha2Code: "SY",
@@ -60,5 +84,8 @@
   // otherwise it will be ignored
   remove:
   [
+    {
+      alpha2Code: "AQ",  // remove Antarctica
+    },
   ]
 }
